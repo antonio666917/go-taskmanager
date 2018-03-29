@@ -22,3 +22,7 @@ The RESTful API application has been divided into the following packages:
 * **data**: Implements the persistence logic with the MongoDB database
 * **models**: Describes the data model of the application
 * **routers**: Implements the HTTP request routers for the RESTful API
+
+## Resource Modeling
+
+Check out the [Wiki page](https://github.com/antoniwan/go-taskmanager/wiki/Resource-Modeling-for-the-Task-Manager-API) to see the resource modeling for this project.
